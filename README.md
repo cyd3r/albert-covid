@@ -12,7 +12,7 @@ Clone this repsitory into the python modules folder:
 
 This extension gets the data from [Covid19API](https://covid19api.com/) and displays you either world wide stats or for a specific country.
 
-To show world wide stats, type `covid `.
+To show world wide stats, type `covid`.
 
 To show statistics for a specific country, type `covid `, followed by the country code or the country name (in english).
 Examples: `covid ao`/`covid angola`, `covid ch`/`covid switzerland` 
